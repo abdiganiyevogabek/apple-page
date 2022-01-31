@@ -1,0 +1,19 @@
+* {
+	margin: 0px;
+	padding: 0px;
+  box-sizing: border-box;
+}
+
+.main-ctn {
+	/* background-image: linear-gradient(to bottom, rgb(196, 0, 10) 50%, rgb(32, 0, 148) 50%); */
+	background-image: url(https://images.unsplash.com/photo-1640622656891-04960a7aa678?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-size:  cover;
+	/* background-position: center; */
+}
+
+.gradient {
+	background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(0, 0, 0, 0.7));
+	height: inherit;
+}
